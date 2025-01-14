@@ -1,4 +1,7 @@
 # frozen_string_literal: true
+gem 'csv'   # Ensures the CSV library is available
+gem 'logger' # Ensures the Logger library is available
+gem 'base64'
 
 source "https://rubygems.org"
 
