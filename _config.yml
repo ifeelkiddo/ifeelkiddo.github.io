@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: C:\Projects\blog\ifeelkiddo.github.io\assets\lib\pfp32
+avatar: https://th.bing.com/th/id/OIP.W2vqU48IwxZMPEe2qNEECAHaHa?rs=1&pid=ImgDetMain
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
